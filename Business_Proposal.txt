@@ -1,0 +1,11 @@
+Introduction/Business Problem
+I would like to build “Business Recommendation System” . User should be able to mention any Area of any Country and by using FourSaure API , we should explore that area for different businesses.
+
+Data
+In order to get data, we can use Wikipedia and or any other website for PostalCodes. 
+Next we can use Venus of neighbouring areas and the Venus of Current area by using FourSqaure AOI.  
+Suppose someone want to open Pizza Shop, we can inform him that What Pizza shops are in neighbouring areas and what are the rates of the shops.
+We can recommend user about any new business by using some Model like Recommendation System
+In this case Venues information from neighbouring areas can help us to build “Business Recommendation System”
+
+
